@@ -1,0 +1,5 @@
+NOTE!!!: I could not get my athletic events working. 
+I received help from a friend, however I am not able to understand how they got to that point.
+I went back to try to derive the solution myself with chatgpt. But I could not do it after over an hour
+hence I have one working version and one I worked on myself but could not figure out
+):(
